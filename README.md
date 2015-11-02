@@ -1,5 +1,7 @@
 # X-Mouse Setting Tool
 
+[![Join the chat at https://gitter.im/bellbind/XMouseSetting](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bellbind/XMouseSetting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 X-Mouse setting tool for Windows8Windows7/Vista/XP (with .NET 3.5).
 
 ## Requirement
